@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var devloper = "Android"
+
+        var name = "Jonny B"
     }
 }
